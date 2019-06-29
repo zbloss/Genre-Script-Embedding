@@ -1,10 +1,5 @@
-DAWN OF
-THE DEAD
-(The working draft 1977)
-by George A. Romero
 
-
-1	We see the face of a young woman. She is asleep. It is very
+	We see the face of a young woman. She is asleep. It is very
 	quiet at first, as credits appear. The woman's face begins to
 	twitch, as though she is having a bad dream. She moans slightly
 	and her expression grows more desperate.
@@ -18,7 +13,7 @@ by George A. Romero
 	background sounds reach full volume and the credits stop. The
 	woman sits up, snapping awake.
 
-2	She lurches forwards into the arms of a strong young man. She is
+	She lurches forwards into the arms of a strong young man. She is
 	Francine, twenty three years old and very attractive, although
 	she is gritty with dirt. Her hair is hanging, dishevelled and
 	sweaty. Her jeans and blouse have been worn for several days.
@@ -38,7 +33,7 @@ by George A. Romero
 	have an electronic tinniness, as broadcast over a monitor. Fran
 	looks about. She is still shaken from her dream.
 
-3	We see the television studio. Reporters buzz about madly.
+	We see the television studio. Reporters buzz about madly.
 	Everybody looks dishevelled and exhausted. Technicians man
 	monitors, and we see people on the little screens, arguing
 	emotionally.
